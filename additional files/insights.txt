@@ -1,0 +1,21 @@
+fig_loan_mon_payment_duration
+
+the loan amount does not neccessary define the 'monthly payment' amount
+
+the more loan amount, the longer loan duration
+
+
+fig_district_avg_sal pop1
+
+district 1 has the highest # population
+
+
+fig_district_avg_sal pop2
+
+the avg salary for overall pop betweem district are quite the same level.
+
+
+fig_district_avg_sal urban ratio
+
+district 1,26,54,74 have the highest urban ratios but average salary are not showing much diff. (this means even u live in the countryside, it does not mean that you will have less avg salary.)
+
