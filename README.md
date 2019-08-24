@@ -13,7 +13,7 @@ The total observations and variables of this data mart are 5,369 and 81 respecti
      -It is a script folder where you can find python scripts for descriptive analytics 
 - additional files & data
      -These folders include extra scripts for graphs and data used for this project
--20181218_DataMart_Report_Group5.pdf
+- 20181218_DataMart_Report_Group5.pdf
      -This is the final descriptive report
 
 
