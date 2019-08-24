@@ -95,7 +95,6 @@ for x_col in x_cols:
 #                            height=6, kind="bar", palette="muted")
 #            g.despine(left=True)
 #            g.set_ylabels(y_col)
-#            g.savefig('./figures/dkewon
-Basetable_Analysis/BarPlot_by_'+str(cat_col)+'_'+str(x_col)+'_VS_'+str(y_col)+'.png', dpi=200)
+#            g.savefig('./figures/dkewon/Basetable_Analysis/BarPlot_by_'+str(cat_col)+'_'+str(x_col)+'_VS_'+str(y_col)+'.png', dpi=200)
 
 
