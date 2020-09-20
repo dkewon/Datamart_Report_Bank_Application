@@ -18,4 +18,4 @@ The total observations and variables of this data mart are 5,369 and 81 respecti
 
 
 
-![alt text](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/69142508_2657710900907666_7325756941752336384_o.jpg?_nc_cat=108&_nc_ohc=2af8xmkgbgAAQlMkyu0mWL97KY3xbtnUKJjAVq1ru0aAWSY8bvUB2wfjQ&_nc_ht=scontent-cdg2-1.xx&oh=d4b77a92545daf5d9ba44dd558c40d65&oe=5E77D231)
+![alt text](https://i.imgur.com/znSEDB1.jpg)
